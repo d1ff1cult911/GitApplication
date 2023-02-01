@@ -32,9 +32,9 @@ namespace GitApplication
         }
         public static void PrintMyName()
         {
-            Console.WriteLine("Климов Алексей Иванович");
+            Console.WriteLine("Иващенко Марина Денисовна");
             Console.WriteLine("10.4");
-            Console.WriteLine("19.09.2006");
+            Console.WriteLine("24.01.2007");
         }
     }
 }

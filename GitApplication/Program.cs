@@ -32,9 +32,8 @@ namespace GitApplication
         }
         public static void PrintMyName()
         {
-            Console.WriteLine("Иващенко Марина Денисовна");
-            Console.WriteLine("10.4");
-            Console.WriteLine("24.01.2007");
+
+ master
         }
     }
 }

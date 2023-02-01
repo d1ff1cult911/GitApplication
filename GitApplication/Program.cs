@@ -8,9 +8,9 @@ namespace GitApplication
         {
             
         }
-        public static void MatrixA(int a, int b)
+        public static void MatrixB(int a, int b)
         {
-            Console.ForegroundColor = ConsoleColor.Magenta;
+            Console.ForegroundColor = ConsoleColor.Green;
             Random rnd = new Random();
             
             for (int i = 0; i < a; i++)
@@ -32,9 +32,8 @@ namespace GitApplication
         }
         public static void PrintMyName()
         {
-            Console.WriteLine("Климов Алексей Иванович");
-            Console.WriteLine("10.4");
-            Console.WriteLine("19.09.2006");
+
+ master
         }
     }
 }

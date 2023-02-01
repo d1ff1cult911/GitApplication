@@ -30,5 +30,11 @@ namespace GitApplication
                 Console.WriteLine("\n");
             }
         }
+        public static void PrintMyName()
+        {
+            Console.WriteLine("Климов Алексей Иванович");
+            Console.WriteLine("10.4");
+            Console.WriteLine("19.09.2006");
+        }
     }
 }
